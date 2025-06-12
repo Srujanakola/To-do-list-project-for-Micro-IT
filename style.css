@@ -1,0 +1,44 @@
+
+.frame {
+    width: 400px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    border: 1px solid #ccc;
+    background-color: Cyan; 
+    box-shadow: 10px 5px 10px #888; 
+}
+
+body {
+background-color:Burlywood;
+    font-family: lucida calligraphy;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.add-task {
+    margin: 20px 0;
+}
+
+#task {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.task-list {
+    margin-top: 20px;
+}
+
+li {
+    list-style: none;
+    margin: 5px 0;
+}
